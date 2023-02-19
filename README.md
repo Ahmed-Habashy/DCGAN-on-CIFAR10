@@ -1,4 +1,4 @@
-DCGAN on CIFAR10
+DCGAN on CIFAR10 Dataset
 In this script, we use Deep Convolutional Generative Adversarial Networks (DCGANs) to generate new images that resemble CIFAR10 dataset images.
 
 Requirements
