@@ -3,15 +3,16 @@ In this script, we use Deep Convolutional Generative Adversarial Networks (DCGAN
 
 Requirements
 To run this script, you need to have the following libraries installed:
-
 Keras
 TensorFlow
 numpy
 matplotlib
+
 File Structure
 Copy code
 ├── README.md
 ├── dcgan_cifar10.py
+
 Usage
 To run the script, run the following command:
 
